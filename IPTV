@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="By @ak.7.3.6 beinsport 1 HD 720p" tvg-logo="",By @ak.7.3.6 beinsport 1 HD 720p
+http://stream.shashety.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 2 HD 720p" tvg-logo="",beinsport 2 HD 720p
+http://stream.shashety.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 3 HD 720p" tvg-logo="",beinsport 3 HD 720p
+http://stream.shashety.com:6001/sport/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 4 HD 720p" tvg-logo="",beinsport 4 HD 720p
+http://stream.shashety.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 5 HD 720p" tvg-logo="",beinsport 5 HD 720p
+http://stream.shashety.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 6 HD 720p" tvg-logo="",beinsport 6 HD 720p
+http://stream.shashety.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 7 HD 720p" tvg-logo="",beinsport 7 HD 720p
+http://stream.shashety.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 8 HD 720p" tvg-logo="",beinsport 8 HD 720p
+http://stream.shashety.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 9 HD 720p" tvg-logo="",beinsport 9 HD 720p
+http://stream.shashety.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 10 HD 720p" tvg-logo="",beinsport 10 HD 720p
+http://stream.shashety.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 11 HD 720p" tvg-logo="",beinsport 11 HD 720p
+http://stream.shashety.com:6001/sport/ch11/ch11_720.m3u8
+#EXTINF:-1 tvg-name="ksasport HD 720p" tvg-logo="",ksasport HD 720p
+http://stream.shashety.com:6001/sport/ch12/ch12_720.m3u8
+#EXTINF:-1 tvg-name="alkass 1 HD 720p" tvg-logo="",alkass 1 HD 720p
+http://stream.shashety.com:6001/sport/ch13/ch13_720.m3u8
+#EXTINF:-1 tvg-name="alkass 2 HD 720p" tvg-logo="",alkass 2 HD 720p
+http://stream.shashety.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:-1 tvg-name="alkass 3 HD 720p" tvg-logo="",alkass 3 HD 720p
+http://stream.shashety.com:6001/sport/ch15/ch15_720.m3u8
+#EXTINF:-1 tvg-name="alkass 4 HD 720p" tvg-logo="",alkass 4 HD 720p
+http://stream.shashety.com:6001/sport/ch16/ch16_720.m3u8
+#EXTINF:-1 tvg-name="alkass 5 HD 720p" tvg-logo="",alkass 5 HD 720p
+http://stream.shashety.com:6001/sport/ch17/ch17_720.m3u8
+#EXTINF:-1 tvg-name="bein movies 1 HD 720p" tvg-logo="",bein movies 1 HD 720p
+http://stream.shashety.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-name="bein movies 2 HD 720p" tvg-logo="",bein movies 2 HD 720p
+http://stream.shashety.com:6001/movies/ch2/ch2_720.m3u8
+#EXTINF:-1 tvg-name="bein movies 3 HD 720p" tvg-logo="",bein movies 3 HD 720p
+http://stream.shashety.com:6001/movies/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="bein movies 4 HD 720p" tvg-logo="",bein movies 4 HD 720p
+http://stream.shashety.com:6001/movies/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="fox movies HD 720p" tvg-logo="",fox movies HD 720p
+http://stream.shashety.com:6001/movies/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="fox action movies HD 720p" tvg-logo="",fox action movies HD 720p
+http://stream.shashety.com:6001/movies/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-name="fox family movies HD 720p" tvg-logo="",fox family movies HD 720p
+http://stream.shashety.com:6001/movies/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="TCM HD 720p" tvg-logo="",TCM HD 720p
+http://stream.shashety.com:6001/movies/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="FOX HD 720p" tvg-logo="",FOX HD 720p
+http://stream.shashety.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="starworld HD 720p" tvg-logo="",starworld HD 720p
+http://stream.shashety.com:6001/movies/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="Star Movies HD 720p" tvg-logo="",Star Movies HD 720p
+http://stream.shashety.com:6001/movies/ch11/ch11_720.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME HD 720p" tvg-logo="",FOX CRIME HD 720p
+http://stream.shashety.com:6001/movies/ch12/ch12_720.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES HD 720p" tvg-logo="",OSN MOVIES HD 720p
+http://stream.shashety.com:6001/movies/ch13/ch13_720.m3u8
+#EXTINF:-1 tvg-name="OSN ACTION HD 720p" tvg-logo="",OSN ACTION HD 720p
+http://stream.shashety.com:6001/movies/ch14/ch14_720.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES FIRST HD 720p" tvg-logo="",OSN MOVIES FIRST HD 720p
+http://stream.shashety.com:6001/movies/ch15/ch15_720.m3u8
+#EXTINF:-1 tvg-name="OSN 2 HD 720p" tvg-logo="",OSN 2 HD 720p
+http://stream.shashety.com:6001/movies/ch16/ch16_720.m3u8
+#EXTINF:-1 tvg-name="OSN 3 HD 720p" tvg-logo="",OSN 3 HD 720p
+http://stream.shashety.com:6001/movies/ch17/ch17_720.m3u8
+#EXTINF:-1 tvg-name="OSN YA HALA HD 720p" tvg-logo="",OSN YA HALA HD 720p
+http://stream.shashety.com:6001/movies/ch18/ch18_720.m3u8
+#EXTINF:-1 tvg-name="OSN COMEDY HD 720p" tvg-logo="",OSN COMEDY HD 720p
+http://stream.shashety.com:6001/movies/ch19/ch19_720.m3u8
+#EXTINF:-1 tvg-name="OSN On DEMAND HD 720p" tvg-logo="",OSN On DEMAND HD 720p
+http://stream.shashety.com:6001/movies/ch20/ch20_720.m3u8
+#EXTINF:-1 tvg-name="art HD 720p" tvg-logo="",art HD 720p
+http://stream.shashety.com:6001/movies/ch21/ch21_720.m3u8
+#EXTINF:-1 tvg-name="art 1 HD 720p" tvg-logo="",art 1 HD 720p
+http://stream.shashety.com:6001/movies/ch22/ch22_720.m3u8
+#EXTINF:-1 tvg-name="art 2 HD 720p" tvg-logo="",art 2 HD 720p
+http://stream.shashety.com:6001/movies/ch23/ch23_720.m3u8
+#EXTINF:-1 tvg-name="osn enigms HD 720p" tvg-logo="",osn enigms HD 720p
+http://stream.shashety.com:6001/movies/ch24/ch24_720.m3u8
+#EXTINF:-1 tvg-name="ON Arabic HD 720p" tvg-logo="",ON Arabic HD 720p
+http://stream.shashety.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:-1 tvg-name="ON Box office HD 720p" tvg-logo="",ON Box office HD 720p
+http://stream.shashety.com:6001/movies/ch26/ch26_720.m3u8
+#EXTINF:-1 tvg-name="ON Bollywood HD 720p" tvg-logo="",ON Bollywood HD 720p
+http://stream.shashety.com:6001/movies/ch27/ch27_720.m3u8
+#EXTINF:-1 tvg-name="ON Comedy HD 720p" tvg-logo="",ON Comedy HD 720p
+http://stream.shashety.com:6001/movies/ch28/ch28_720.m3u8
+#EXTINF:-1 tvg-name="bein series HD 720p" tvg-logo="",bein series HD 720p
+http://stream.shashety.com:6001/series/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-name="bein series 2 HD 720p" tvg-logo="",bein series 2 HD 720p
+http://stream.shashety.com:6001/series/ch2/ch2_720.m3u8
+#EXTINF:-1 tvg-name="bein drama HD 720p" tvg-logo="",bein drama HD 720p
+http://stream.shashety.com:6001/series/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="FXHD HD 720p" tvg-logo="",FXHD HD 720p
+http://stream.shashety.com:6001/series/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="FOX Rwayat HD 720p" tvg-logo="",FOX Rwayat HD 720p
+http://stream.shashety.com:6001/series/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="OSN Ya Hala HD 720p" tvg-logo="",OSN Ya Hala HD 720p
+http://stream.shashety.com:6001/series/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-name="SYFY HD 720p" tvg-logo="",SYFY HD 720p
+http://stream.shashety.com:6001/series/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="MBC Drama HD 720p" tvg-logo="",MBC Drama HD 720p
+http://stream.shashety.com:6001/series/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="abc news HD 720p" tvg-logo="",abc news HD 720p
+http://stream.shashety.com:6001/series/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="OSN AR 1 HD 720p" tvg-logo="",OSN AR 1 HD 720p
+http://stream.shashety.com:6001/series/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="a tv HD 720p" tvg-logo="",a tv HD 720p
+http://stream.shashety.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:-1 tvg-name="CBS reality HD 720p" tvg-logo="",CBS reality HD 720p
+http://stream.shashety.com:6001/enter/ch1/ch1_720.m3u8
+#EXTINF:-1 tvg-name="DTX HD 720p" tvg-logo="",DTX HD 720p
+http://stream.shashety.com:6001/enter/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="NAT GEO HD 720p" tvg-logo="",NAT GEO HD 720p
+http://stream.shashety.com:6001/enter/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WILD HD 720p" tvg-logo="",NAT GEO WILD HD 720p
+http://stream.shashety.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="animal planet HD 720p" tvg-logo="",animal planet HD 720p
+http://stream.shashety.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:-1 tvg-name="bein GOURMET HD 720p" tvg-logo="",bein GOURMET HD 720p
+http://stream.shashety.com:6001/enter/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="fatafeat HD 720p" tvg-logo="",fatafeat HD 720p
+http://stream.shashety.com:6001/enter/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="DMAX HD 720p" tvg-logo="",DMAX HD 720p
+http://stream.shashety.com:6001/enter/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="OUT DOOR HD 720p" tvg-logo="",OUT DOOR HD 720p
+http://stream.shashety.com:6001/enter/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="TRAVEL HD 720p" tvg-logo="",TRAVEL HD 720p
+http://stream.shashety.com:6001/enter/ch11/ch11_720.m3u8
+#EXTINF:-1 tvg-name="HG TV HD 720p" tvg-logo="",HG TV HD 720p
+http://stream.shashety.com:6001/enter/ch12/ch12_720.m3u8
+#EXTINF:-1 tvg-name="food HD 720p" tvg-logo="",food HD 720p
+http://stream.shashety.com:6001/enter/ch13/ch13_720.m3u8
+#EXTINF:-1 tvg-name="FINE LIVING HD 720p" tvg-logo="",FINE LIVING HD 720p
+http://stream.shashety.com:6001/enter/ch14/ch14_720.m3u8
+#EXTINF:-1 tvg-name="FOX life HD 720p" tvg-logo="",FOX life HD 720p
+http://stream.shashety.com:6001/enter/ch15/ch15_720.m3u8
+#EXTINF:-1 tvg-name="NAT GEO people HD 720p" tvg-logo="",NAT GEO people HD 720p
+http://stream.shashety.com:6001/enter/ch16/ch16_720.m3u8
+#EXTINF:-1 tvg-name="amc HD 720p" tvg-logo="",amc HD 720p
+http://stream.shashety.com:6001/enter/ch17/ch17_720.m3u8
+#EXTINF:-1 tvg-name="mbc Iraq HD 720p" tvg-logo="",mbc Iraq HD 720p
+http://stream.shashety.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:-1 tvg-name="D HD 720p" tvg-logo="",D HD 720p
+http://stream.shashety.com:6001/enter/ch19/ch19_720.m3u8
+#EXTINF:-1 tvg-name="History HD 720p" tvg-logo="",History HD 720p
+http://stream.shashety.com:6001/enter/ch20/ch20_720.m3u8
+#EXTINF:-1 tvg-name="History 2 HD 720p" tvg-logo="",History 2 HD 720p
+http://stream.shashety.com:6001/enter/ch29/ch29_720.m3u8
+#EXTINF:-1 tvg-name="TLC HD 720p" tvg-logo="",TLC HD 720p
+http://stream.shashety.com:6001/enter/ch21/ch21_720.m3u8
+#EXTINF:-1 tvg-name="E HD 720p" tvg-logo="",E HD 720p
+http://stream.shashety.com:6001/enter/ch22/ch22_720.m3u8
+#EXTINF:-1 tvg-name="ID HD 720p" tvg-logo="",ID HD 720p
+http://stream.shashety.com:6001/enter/ch23/ch23_720.m3u8
+#EXTINF:-1 tvg-name="MBC VARIETY HD 720p" tvg-logo="",MBC VARIETY HD 720p
+http://stream.shashety.com:6001/enter/ch25/ch25_720.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD 720p" tvg-logo="",Comedy Central HD 720p
+http://stream.shashety.com:6001/enter/ch26/ch26_720.m3u8
+#EXTINF:-1 tvg-name="SCI HD 720p" tvg-logo="",SCI HD 720p
+http://stream.shashety.com:6001/enter/ch27/ch27_720.m3u8
+#EXTINF:-1 tvg-name="Planet Earth HD 720p" tvg-logo="",Planet Earth HD 720p
+http://stream.shashety.com:6001/enter/ch30/ch30_720.m3u8
+#EXTINF:-1 tvg-name="Baaby tv HD 720p" tvg-logo="",Baaby tv HD 720p
+http://stream.shashety.com:6001/kids/ch2/ch2_720.m3u8
+#EXTINF:-1 tvg-name="BOOB ERANG HD 720p" tvg-logo="",BOOB ERANG HD 720p
+http://stream.shashety.com:6001/kids/ch3/ch3_720.m3u8
+#EXTINF:-1 tvg-name="CN arabic HD 720p" tvg-logo="",CN arabic HD 720p
+http://stream.shashety.com:6001/kids/ch4/ch4_720.m3u8
+#EXTINF:-1 tvg-name="DREAM WORLD HD 720p" tvg-logo="",DREAM WORLD HD 720p
+http://stream.shashety.com:6001/kids/ch5/ch5_720.m3u8
+#EXTINF:-1 tvg-name="bein Junior HD 720p" tvg-logo="",bein Junior HD 720p
+http://stream.shashety.com:6001/kids/ch7/ch7_720.m3u8
+#EXTINF:-1 tvg-name="g HD 720p" tvg-logo="",g HD 720p
+http://stream.shashety.com:6001/kids/ch8/ch8_720.m3u8
+#EXTINF:-1 tvg-name="Kids HD 720p" tvg-logo="",Kids HD 720p
+http://stream.shashety.com:6001/kids/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-name="nickelodeon HD 720p" tvg-logo="",nickelodeon HD 720p
+http://stream.shashety.com:6001/kids/ch10/ch10_720.m3u8
+#EXTINF:-1 tvg-name="OSN Kids HD 720p" tvg-logo="",OSN Kids HD 720p
+http://stream.shashety.com:6001/kids/ch11/ch11_720.m3u8
+#EXTINF:-1 tvg-name="beinsport 1 HD 360p" tvg-logo="",beinsport 1 HD 360p
+http://stream.shashety.com:6001/sport/ch1/ch1_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 2 HD 360p" tvg-logo="",beinsport 2 HD 360p
+http://stream.shashety.com:6001/sport/ch2/ch2_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 3 HD 360p" tvg-logo="",beinsport 3 HD 360p
+http://stream.shashety.com:6001/sport/ch3/ch3_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 4 HD 360p" tvg-logo="",beinsport 4 HD 360p
+http://stream.shashety.com:6001/sport/ch4/ch4_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 5 HD 360p" tvg-logo="",beinsport 5 HD 360p
+http://stream.shashety.com:6001/sport/ch5/ch5_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 6 HD 360p" tvg-logo="",beinsport 6 HD 360p
+http://stream.shashety.com:6001/sport/ch6/ch6_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 7 HD 360p" tvg-logo="",beinsport 7 HD 360p
+http://stream.shashety.com:6001/sport/ch7/ch7_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 8 HD 360p" tvg-logo="",beinsport 8 HD 360p
+http://stream.shashety.com:6001/sport/ch8/ch8_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 9 HD 360p" tvg-logo="",beinsport 9 HD 360p
+http://stream.shashety.com:6001/sport/ch9/ch9_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 10 HD 360p" tvg-logo="",beinsport 10 HD 360p
+http://stream.shashety.com:6001/sport/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 11 HD 360p" tvg-logo="",beinsport 11 HD 360p
+http://stream.shashety.com:6001/sport/ch11/ch11_360.m3u8
+#EXTINF:-1 tvg-name="ksasport HD 360p" tvg-logo="",ksasport HD 360p
+http://stream.shashety.com:6001/sport/ch12/ch12_360.m3u8
+#EXTINF:-1 tvg-name="alkass 1 HD 360p" tvg-logo="",alkass 1 HD 360p
+http://stream.shashety.com:6001/sport/ch13/ch13_360.m3u8
+#EXTINF:-1 tvg-name="alkass 2 HD 360p" tvg-logo="",alkass 2 HD 360p
+http://stream.shashety.com:6001/sport/ch14/ch14_360.m3u8
+#EXTINF:-1 tvg-name="alkass 3 HD 360p" tvg-logo="",alkass 3 HD 360p
+http://stream.shashety.com:6001/sport/ch15/ch15_360.m3u8
+#EXTINF:-1 tvg-name="alkass 4 HD 360p" tvg-logo="",alkass 4 HD 360p
+http://stream.shashety.com:6001/sport/ch16/ch16_360.m3u8
+#EXTINF:-1 tvg-name="alkass 5 HD 360p" tvg-logo="",alkass 5 HD 360p
+http://stream.shashety.com:6001/sport/ch17/ch17_360.m3u8
+#EXTINF:-1 tvg-name="bein movies 1 HD 360p" tvg-logo="",bein movies 1 HD 360p
+http://stream.shashety.com:6001/movies/ch1/ch1_360.m3u8
+#EXTINF:-1 tvg-name="bein movies 2 HD 360p" tvg-logo="",bein movies 2 HD 360p
+http://stream.shashety.com:6001/movies/ch2/ch2_360.m3u8
+#EXTINF:-1 tvg-name="bein movies 3 HD 360p" tvg-logo="",bein movies 3 HD 360p
+http://stream.shashety.com:6001/movies/ch3/ch3_360.m3u8
+#EXTINF:-1 tvg-name="bein movies 4 HD 360p" tvg-logo="",bein movies 4 HD 360p
+http://stream.shashety.com:6001/movies/ch4/ch4_360.m3u8
+#EXTINF:-1 tvg-name="fox movies HD 360p" tvg-logo="",fox movies HD 360p
+http://stream.shashety.com:6001/movies/ch5/ch5_360.m3u8
+#EXTINF:-1 tvg-name="fox action movies HD 360p" tvg-logo="",fox action movies HD 360p
+http://stream.shashety.com:6001/movies/ch6/ch6_360.m3u8
+#EXTINF:-1 tvg-name="fox family movies HD 360p" tvg-logo="",fox family movies HD 360p
+http://stream.shashety.com:6001/movies/ch7/ch7_360.m3u8
+#EXTINF:-1 tvg-name="TCM HD 360p" tvg-logo="",TCM HD 360p
+http://stream.shashety.com:6001/movies/ch8/ch8_360.m3u8
+#EXTINF:-1 tvg-name="FOX HD 360p" tvg-logo="",FOX HD 360p
+http://stream.shashety.com:6001/movies/ch9/ch9_360.m3u8
+#EXTINF:-1 tvg-name="starworld HD 360p" tvg-logo="",starworld HD 360p
+http://stream.shashety.com:6001/movies/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="Star Movies HD 360p" tvg-logo="",Star Movies HD 360p
+http://stream.shashety.com:6001/movies/ch11/ch11_360.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME HD 360p" tvg-logo="",FOX CRIME HD 360p
+http://stream.shashety.com:6001/movies/ch12/ch12_360.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES HD 360p" tvg-logo="",OSN MOVIES HD 360p
+http://stream.shashety.com:6001/movies/ch13/ch13_360.m3u8
+#EXTINF:-1 tvg-name="OSN ACTION HD 360p" tvg-logo="",OSN ACTION HD 360p
+http://stream.shashety.com:6001/movies/ch14/ch14_360.m3u8
+#EXTINF:-1 tvg-name="OSN MOVIES FIRST HD 360p" tvg-logo="",OSN MOVIES FIRST HD 360p
+http://stream.shashety.com:6001/movies/ch15/ch15_360.m3u8
+#EXTINF:-1 tvg-name="OSN 2 HD 360p" tvg-logo="",OSN 2 HD 360p
+http://stream.shashety.com:6001/movies/ch16/ch16_360.m3u8
+#EXTINF:-1 tvg-name="OSN 3 HD 360p" tvg-logo="",OSN 3 HD 360p
+http://stream.shashety.com:6001/movies/ch17/ch17_360.m3u8
+#EXTINF:-1 tvg-name="OSN YA HALA HD 360p" tvg-logo="",OSN YA HALA HD 360p
+http://stream.shashety.com:6001/movies/ch18/ch18_360.m3u8
+#EXTINF:-1 tvg-name="OSN COMEDY HD 360p" tvg-logo="",OSN COMEDY HD 360p
+http://stream.shashety.com:6001/movies/ch19/ch19_360.m3u8
+#EXTINF:-1 tvg-name="OSN On DEMAND HD 360p" tvg-logo="",OSN On DEMAND HD 360p
+http://stream.shashety.com:6001/movies/ch20/ch20_360.m3u8
+#EXTINF:-1 tvg-name="art HD 360p" tvg-logo="",art HD 360p
+http://stream.shashety.com:6001/movies/ch21/ch21_360.m3u8
+#EXTINF:-1 tvg-name="art 1 HD 360p" tvg-logo="",art 1 HD 360p
+http://stream.shashety.com:6001/movies/ch22/ch22_360.m3u8
+#EXTINF:-1 tvg-name="art 2 HD 360p" tvg-logo="",art 2 HD 360p
+http://stream.shashety.com:6001/movies/ch23/ch23_360.m3u8
+#EXTINF:-1 tvg-name="osn enigms HD 360p" tvg-logo="",osn enigms HD 360p
+http://stream.shashety.com:6001/movies/ch24/ch24_360.m3u8
+#EXTINF:-1 tvg-name="ON Arabic HD 360p" tvg-logo="",ON Arabic HD 360p
+http://stream.shashety.com:6001/movies/ch25/ch25_360.m3u8
+#EXTINF:-1 tvg-name="ON Box office HD 360p" tvg-logo="",ON Box office HD 360p
+http://stream.shashety.com:6001/movies/ch26/ch26_360.m3u8
+#EXTINF:-1 tvg-name="ON Bollywood HD 360p" tvg-logo="",ON Bollywood HD 360p
+http://stream.shashety.com:6001/movies/ch27/ch27_360.m3u8
+#EXTINF:-1 tvg-name="ON Comedy HD 360p" tvg-logo="",ON Comedy HD 360p
+http://stream.shashety.com:6001/movies/ch28/ch28_360.m3u8
+#EXTINF:-1 tvg-name="bein series HD 360p" tvg-logo="",bein series HD 360p
+http://stream.shashety.com:6001/series/ch1/ch1_360.m3u8
+#EXTINF:-1 tvg-name="bein series 2 HD 360p" tvg-logo="",bein series 2 HD 360p
+http://stream.shashety.com:6001/series/ch2/ch2_360.m3u8
+#EXTINF:-1 tvg-name="bein drama HD 360p" tvg-logo="",bein drama HD 360p
+http://stream.shashety.com:6001/series/ch3/ch3_360.m3u8
+#EXTINF:-1 tvg-name="FXHD HD 360p" tvg-logo="",FXHD HD 360p
+http://stream.shashety.com:6001/series/ch4/ch4_360.m3u8
+#EXTINF:-1 tvg-name="FOX Rwayat HD 360p" tvg-logo="",FOX Rwayat HD 360p
+http://stream.shashety.com:6001/series/ch5/ch5_360.m3u8
+#EXTINF:-1 tvg-name="OSN Ya Hala HD 360p" tvg-logo="",OSN Ya Hala HD 360p
+http://stream.shashety.com:6001/series/ch6/ch6_360.m3u8
+#EXTINF:-1 tvg-name="SYFY HD 360p" tvg-logo="",SYFY HD 360p
+http://stream.shashety.com:6001/series/ch7/ch7_360.m3u8
+#EXTINF:-1 tvg-name="MBC Drama HD 360p" tvg-logo="",MBC Drama HD 360p
+http://stream.shashety.com:6001/series/ch8/ch8_360.m3u8
+#EXTINF:-1 tvg-name="abc news HD 360p" tvg-logo="",abc news HD 360p
+http://stream.shashety.com:6001/series/ch9/ch9_360.m3u8
+#EXTINF:-1 tvg-name="OSN AR 1 HD 360p" tvg-logo="",OSN AR 1 HD 360p
+http://stream.shashety.com:6001/series/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="a tv HD 360p" tvg-logo="",a tv HD 360p
+http://stream.shashety.com:6001/series/ch11/ch11_360.m3u8
+#EXTINF:-1 tvg-name="CBS reality HD 360p" tvg-logo="",CBS reality HD 360p
+http://stream.shashety.com:6001/enter/ch1/ch1_360.m3u8
+#EXTINF:-1 tvg-name="DTX HD 360p" tvg-logo="",DTX HD 360p
+http://stream.shashety.com:6001/enter/ch3/ch3_360.m3u8
+#EXTINF:-1 tvg-name="NAT GEO HD 360p" tvg-logo="",NAT GEO HD 360p
+http://stream.shashety.com:6001/enter/ch4/ch4_360.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WILD HD 360p" tvg-logo="",NAT GEO WILD HD 360p
+http://stream.shashety.com:6001/enter/ch5/ch5_360.m3u8
+#EXTINF:-1 tvg-name="animal planet HD 360p" tvg-logo="",animal planet HD 360p
+http://stream.shashety.com:6001/enter/ch6/ch6_360.m3u8
+#EXTINF:-1 tvg-name="bein GOURMET HD 360p" tvg-logo="",bein GOURMET HD 360p
+http://stream.shashety.com:6001/enter/ch7/ch7_360.m3u8
+#EXTINF:-1 tvg-name="fatafeat HD 360p" tvg-logo="",fatafeat HD 360p
+http://stream.shashety.com:6001/enter/ch8/ch8_360.m3u8
+#EXTINF:-1 tvg-name="DMAX HD 360p" tvg-logo="",DMAX HD 360p
+http://stream.shashety.com:6001/enter/ch9/ch9_360.m3u8
+#EXTINF:-1 tvg-name="OUT DOOR HD 360p" tvg-logo="",OUT DOOR HD 360p
+http://stream.shashety.com:6001/enter/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="TRAVEL HD 360p" tvg-logo="",TRAVEL HD 360p
+http://stream.shashety.com:6001/enter/ch11/ch11_360.m3u8
+#EXTINF:-1 tvg-name="HG TV HD 360p" tvg-logo="",HG TV HD 360p
+http://stream.shashety.com:6001/enter/ch12/ch12_360.m3u8
+#EXTINF:-1 tvg-name="food HD 360p" tvg-logo="",food HD 360p
+http://stream.shashety.com:6001/enter/ch13/ch13_360.m3u8
+#EXTINF:-1 tvg-name="FINE LIVING HD 360p" tvg-logo="",FINE LIVING HD 360p
+http://stream.shashety.com:6001/enter/ch14/ch14_360.m3u8
+#EXTINF:-1 tvg-name="FOX life HD 360p" tvg-logo="",FOX life HD 360p
+http://stream.shashety.com:6001/enter/ch15/ch15_360.m3u8
+#EXTINF:-1 tvg-name="NAT GEO people HD 360p" tvg-logo="",NAT GEO people HD 360p
+http://stream.shashety.com:6001/enter/ch16/ch16_360.m3u8
+#EXTINF:-1 tvg-name="amc HD 360p" tvg-logo="",amc HD 360p
+http://stream.shashety.com:6001/enter/ch17/ch17_360.m3u8
+#EXTINF:-1 tvg-name="mbc Iraq HD 360p" tvg-logo="",mbc Iraq HD 360p
+http://stream.shashety.com:6001/enter/ch18/ch18_360.m3u8
+#EXTINF:-1 tvg-name="D HD 360p" tvg-logo="",D HD 360p
+http://stream.shashety.com:6001/enter/ch19/ch19_360.m3u8
+#EXTINF:-1 tvg-name="History HD 360p" tvg-logo="",History HD 360p
+http://stream.shashety.com:6001/enter/ch20/ch20_360.m3u8
+#EXTINF:-1 tvg-name="History 2 HD 360p" tvg-logo="",History 2 HD 360p
+http://stream.shashety.com:6001/enter/ch29/ch29_360.m3u8
+#EXTINF:-1 tvg-name="TLC HD 360p" tvg-logo="",TLC HD 360p
+http://stream.shashety.com:6001/enter/ch21/ch21_360.m3u8
+#EXTINF:-1 tvg-name="E HD 360p" tvg-logo="",E HD 360p
+http://stream.shashety.com:6001/enter/ch22/ch22_360.m3u8
+#EXTINF:-1 tvg-name="ID HD 360p" tvg-logo="",ID HD 360p
+http://stream.shashety.com:6001/enter/ch23/ch23_360.m3u8
+#EXTINF:-1 tvg-name="MBC VARIETY HD 360p" tvg-logo="",MBC VARIETY HD 360p
+http://stream.shashety.com:6001/enter/ch25/ch25_360.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD 360p" tvg-logo="",Comedy Central HD 360p
+http://stream.shashety.com:6001/enter/ch26/ch26_360.m3u8
+#EXTINF:-1 tvg-name="SCI HD 360p" tvg-logo="",SCI HD 360p
+http://stream.shashety.com:6001/enter/ch27/ch27_360.m3u8
+#EXTINF:-1 tvg-name="Planet Earth HD 360p" tvg-logo="",Planet Earth HD 360p
+http://stream.shashety.com:6001/enter/ch30/ch30_360.m3u8
+#EXTINF:-1 tvg-name="Baaby tv HD 360p" tvg-logo="",Baaby tv HD 360p
+http://stream.shashety.com:6001/kids/ch2/ch2_360.m3u8
+#EXTINF:-1 tvg-name="BOOB ERANG HD 360p" tvg-logo="",BOOB ERANG HD 360p
+http://stream.shashety.com:6001/kids/ch3/ch3_360.m3u8
+#EXTINF:-1 tvg-name="CN arabic HD 360p" tvg-logo="",CN arabic HD 360p
+http://stream.shashety.com:6001/kids/ch4/ch4_360.m3u8
+#EXTINF:-1 tvg-name="DREAM WORLD HD 360p" tvg-logo="",DREAM WORLD HD 360p
+http://stream.shashety.com:6001/kids/ch5/ch5_360.m3u8
+#EXTINF:-1 tvg-name="bein Junior HD 360p" tvg-logo="",bein Junior HD 360p
+http://stream.shashety.com:6001/kids/ch7/ch7_360.m3u8
+#EXTINF:-1 tvg-name="g HD 360p" tvg-logo="",g HD 360p
+http://stream.shashety.com:6001/kids/ch8/ch8_360.m3u8
+#EXTINF:-1 tvg-name="Kids HD 360p" tvg-logo="",Kids HD 360p
+http://stream.shashety.com:6001/kids/ch9/ch9_360.m3u8
+#EXTINF:-1 tvg-name="nickelodeon HD 360p" tvg-logo="",nickelodeon HD 360p
+http://stream.shashety.com:6001/kids/ch10/ch10_360.m3u8
+#EXTINF:-1 tvg-name="OSN Kids HD 360p" tvg-logo="",OSN Kids HD 360p
+http://stream.shashety.com:6001/kids/ch11/ch11_360.m3u8
+#EXTINF:-1 tvg-name="beinsport 1 HD 1080p By @ak.7.3.6" tvg-logo="",beinsport 1 HD 1080p By @ak.7.3.6
+http://stream.shashety.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1 tvg-name="beinsport 2 HD 1080p By @ak.7.3.6" tvg-logo="",beinsport 2 HD 1080p By @ak.7.3.6
+http://stream.shashety.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1 tvg-name="beinsport 3 HD 1080p By @ak.7.3.6" tvg-logo="",beinsport 3 HD 1080p By @ak.7.3.6
+http://stream.shashety.com:6001/sport/ch3/ch3_1080.m3u8
+#EXTINF:-1 tvg-name="beinsport 4 HD 1080p By @ak.7.3.6" tvg-logo="",beinsport 4 HD 1080p By @ak.7.3.6
+http://stream.shashety.com:6001/sport/ch4/ch4_1080.m3u8
